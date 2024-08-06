@@ -1,1 +1,1 @@
-[{"TableChildName":"GUI Mode SwitcherCustomWindow","Position":[0,750,0.699999988079071,100]}]
+[]
