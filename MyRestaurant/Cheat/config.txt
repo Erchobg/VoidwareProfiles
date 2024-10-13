@@ -1,0 +1,1 @@
+{"Auto Daily Rewards":true,"Auto Fireplace":true,"Blacklist Everyone":true,"Experience Algorithm":"V1","Anti Pace":true,"Auto Use Well":true,"Give Best Food":true,"Auto Shrine":true,"(BETA) Inf Experience":true,"Auto Slot Machine":true,"Instant Teleport":false,"Auto Refill Candy Bowls":true}
